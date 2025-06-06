@@ -55,6 +55,21 @@ body {
     margin: 20px;
 }
 
+.imgl1, .imgb1, .imgs1 {
+    width: 20%;
+    margin: 15px;
+    padding: 10px;
+    display: flex;
+    height: auto;
+    justify-content: center;
+    align-items: center;
+    max-width: 100%;
+    height: auto;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    flex-direction: column;
+    background-color: white;
+}
+
 .t1 {
     text-align: center;
     background-color: orange;
