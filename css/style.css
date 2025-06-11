@@ -173,31 +173,39 @@ body {
 }
 
 .t3 {
-    color: white;
-    background-color: orange;
+    color: rgb(0, 0, 0);
     text-align: center;
     font-size: 27px;
 }
 
 .descserradura {
-    color: white;
-    background-color: orange;
+    color: rgb(0, 0, 0);
     text-align: center;
     font-size: 27px;
 }
 
 .i3 {
-    color: white;
-    background-color: orange;
+    color: rgb(0, 0, 0);
     text-align: center;
     font-size: 27px;
 }
 
+.ul3 {
+    text-align: center;
+    color: rgb(0, 0, 0);
+    padding: 0;
+}
+
 .p3 {
-    color: white;
-    background-color: orange;
+    color: rgb(0, 0, 0);
     text-align: center;
     font-size: 27px;
+}
+
+.ol3 {
+    text-align: center;
+    color: rgb(0, 0, 0);
+    padding: 0;
 }
 
 .imgserradura {
