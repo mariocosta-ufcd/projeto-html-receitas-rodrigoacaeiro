@@ -225,6 +225,13 @@ body {
     height: auto;
 }
 
+.containers2{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 20px;
+}
+
 .footer-text {
     text-align: center;
     color: rgb(0, 0, 0);
